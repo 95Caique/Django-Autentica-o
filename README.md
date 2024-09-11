@@ -1,6 +1,6 @@
 Projeto de autenticação Django, para executar siga os comandos a seguir:
 
-1 - Clone o repostório
+1 - Clone o repostório com git clone git@github.com:95Caique/Django-Autentica-o.git
 
 2 - Navegue até a pasta do projeto com cd django_autenticacao
 
