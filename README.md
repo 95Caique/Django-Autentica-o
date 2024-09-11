@@ -1,6 +1,6 @@
 Use a branch Master
 
-Projeto de autenticação Django, para executar siga os comandos a seguir:
+Projeto de autenticação Django bem simples, para executar siga os comandos a seguir:
 
 1 - Clone o repostório
 
